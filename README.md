@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Demo project to showcase how to login to Azure using the OIDC method. More on OIDC here : [text](https://www.microsoft.com/en-us/security/business/security-101/what-is-openid-connect-oidc)
+Demo project to showcase how to login to Azure using the OIDC method. More on OIDC here : [OIDC](https://www.microsoft.com/en-us/security/business/security-101/what-is-openid-connect-oidc)
 
 ## Prerequisites
 
