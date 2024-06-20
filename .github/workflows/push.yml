@@ -21,7 +21,8 @@ jobs:
         with:
           terraform_version: 1.8.1
           terraform_wrapper: false
-
+      
+        # Contributor role on subscription level for service principal is needed!
       - name: Azure CLI Login
         uses: azure/login@v1
         with:
