@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+permissions:
+    id-token: write
+    contents: read
+
 jobs:
   deploy-infra:
     runs-on: ubuntu-latest
